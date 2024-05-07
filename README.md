@@ -1,7 +1,6 @@
 <img alt="Documentation" src="https://img.shields.io/badge/Documentation%3F-yes-brightgreen.svg?color=3366CC" target="_blank" /></a>
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?color=DC3912" target="_blank" /> </a>
 <img alt="Published" src="https://img.shields.io/badge/Published%3F-yes-green.svg?color=FF9900" target="_blank" /> </a>
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=tzhu-bio.CART) </a>
 [![Last-changedate](https://img.shields.io/badge/last%20change-2023--04--27-green.svg)](https://github.com/tzhu-bio/CART/commits/master)
 
 <div align="center">
@@ -55,11 +54,3 @@ TODO
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzhu-bio&show_icons=true&theme=radical)
-
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
