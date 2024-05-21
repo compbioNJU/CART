@@ -9,6 +9,10 @@
 
 # The Chromatin Accessibility of Rice Tissues (CART)
 Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
+
+## Data Availability
+The files used by each notebook are available on [figshare](https://doi.org/10.6084/m9.figshare.25762590.v1).
+
 ## Sample
 
 ![image]( https://github.com/tzhu-bio/CART/blob/main/png/sample.png)
